@@ -1,0 +1,1 @@
+from .checkInput import leiaInt, leiaFloat
