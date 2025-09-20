@@ -1,6 +1,6 @@
 # Curso em Vídeo - Python
 
-Exercícios resolvidos do mundo 1, 2 e 3 do curso de Python do Curso em Vídeo. Foram 115 exercícios ao longo de 23 aulas. Alguns exercícios foram adaptados para melhor entendimento e/ou algumas funcionalidades foram adicionadas/modificadas para melhor aproveitamento do código.
+Exercícios resolvidos do mundo 1, 2 e 3 do curso de Python do Curso em Vídeo oferecido pelo professor Gustavo Guanabara. Foram 115 exercícios ao longo de 23 aulas. Alguns exercícios foram adaptados para melhor entendimento e/ou algumas funcionalidades foram adicionadas/modificadas para melhor aproveitamento do código.
 
 #### A organização dos exercícios foi feita por mundo e por aula, seguindo a estrutura do curso:
 
